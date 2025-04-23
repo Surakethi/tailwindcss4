@@ -1,5 +1,5 @@
 # tailwindcss4
-Tailwind CSS version 4 
+Plain Tailwind CSS version 4 + Vite
 
 ### Step instalasi 
 1. download repo dari github
